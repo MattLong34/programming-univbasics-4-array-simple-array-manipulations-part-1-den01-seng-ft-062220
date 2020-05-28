@@ -2,14 +2,14 @@ def using_push(array, string)
   array.push(string)
 end
 
-# using_unshift
+using_unshift
 
-# using_pop
+using_pop
 
-# pop_with_args
+pop_with_args
 
-# using_shift 
+using_shift 
 
-# shift_with_args
+shift_with_args
 
 
